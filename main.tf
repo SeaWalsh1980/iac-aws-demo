@@ -6,7 +6,6 @@
 # bucket name seawalshbucket in EU (Frankfurt) eu-central-1
 # terraform-user
 # AKIA5DBY3VQJRNEZRBU2
-# k8MwYIdHWGgzTIBx++S7LygvNRPoRWX0qcQsrHrI
 
 terraform {
   backend "s3" {
